@@ -240,7 +240,7 @@ h1 {
 }
 .panel__zoom {
     cursor: pointer;
-    opacity: 0.4;
+    opacity: 0.55;
     position: relative;
     z-index: 9;
 }
@@ -288,7 +288,7 @@ h1 {
 }
 .panel__nav {
     cursor: pointer;
-    opacity: 0.4;
+    opacity: 0.55;
     transition: opacity 0.3s cubic-bezier(0.55, 0, 0.1, 1);
     user-select: none;
     line-height: 34px;
@@ -643,7 +643,7 @@ header .social a {
     left: 22%;
     width: 400px;
     height: 400px;
-    background: linear-gradient(16deg, #ffffff 4%, #ffdda600 108%);
+    background: linear-gradient(16deg, #ffffff94 4%, #ffdda600 108%);
     margin: -10px auto;
     margin-top: 2.7%;
     border-radius: 255px;
@@ -660,7 +660,7 @@ header .social a {
     right: 7.5%;
     width: 400px;
     height: 400px;
-    background: linear-gradient(-27deg, #ffffff 9%, #ffffff00 138%);
+    background: linear-gradient(-27deg, #ffffff73 9%, #ffffff00 138%);
     margin: -10px auto;
     margin-top: 3%;
     border-radius: 255px;
@@ -1428,7 +1428,7 @@ a.imageArticle1:hover img {
     float: left;
     transform: translateX(-11%) translateY(130%) translateY(-2vmin);
     color: white;
-    font-size: 0.9em;
+    font-size: 1em;
     font-style: italic;
     width: 20%;
 }
