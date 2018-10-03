@@ -1,15 +1,18 @@
 <div class="panel" data-x-pos="0"  data-y-pos="0">
     <div class="headframe">
-        <div class="socialg">
+        <div class="socialgAccueil">
             <div class="socialf"><a href="https://www.facebook.com/entraideetculture/" class="social">
                     <img src="img/facebook.png" alt="facebook"/></a>
             </div>
             <div class="socialv"><a href="#" class="social"><img src="img/v.png" alt="vimeo"/></a></div>
         </div>
         <div style="padding:20px;" class="formulaire">
-            <form class="form-search form-inline">
-                <input type="text" class="search-query" placeholder="Rechercher..." />
-            </form>
+            <div class="box">
+                <div class="container-1">
+                    <span class="icon"><i class="fa fa-search"></i></span>
+                    <input type="search" id="search" placeholder="Search..." />
+                </div>
+            </div>
         </div>
         <div class="head_T">
             <h1>accueil</h1>

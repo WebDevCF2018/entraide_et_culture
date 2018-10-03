@@ -405,8 +405,15 @@ section {
     grid-column: 1;
     grid-row: 1;
     z-index: 11;
-    justify-self: center;
-    /* margin: 7px; */
+    padding: 11px;
+}
+.socialgAccueil {
+    display: flex;
+    position: relative;
+    grid-column: 1;
+    grid-row: 1;
+    z-index: 11;
+    padding: 11px;
 }
 
 .socialf {
@@ -627,6 +634,7 @@ h6 {
     padding-bottom: 100%;
     /* border-top: 1px solid #f5b435; */
 }
+
 /*--HEADER---------------------------------------------------------------------------------*/
 /*	HEADER
 /*-----------------------------------------------------------------------------------*/
@@ -734,7 +742,7 @@ header .social a {
 .formetitre1 {
     width: 400px;
     height: 400px;
-    background: linear-gradient(2deg, #ffffff 17%, #ffdda600 97%);
+    background: linear-gradient(35deg, #fffffff2 33%, #ffdda600 112%);
     border-radius: 255px;
     z-index: 1;
     place-self: center;
@@ -1503,7 +1511,8 @@ a.imageArticle1:hover img {
     height: 576px;
 }
 
-.paraEntraide {}
+.paraEntraide {
+}
 
 .paraAncrageLocalB {
     text-transform: none !important;
@@ -1664,4 +1673,55 @@ a.imageArticle1:hover img {
 .imagePara {
     justify-self: center;
     width: 71%;
+}
+
+.container-1 {
+    width: 300px;
+    vertical-align: middle;
+    white-space: nowrap;
+    position: relative;
+}
+
+.container-1 input#search {
+    width: 282px;
+    height: 35px;
+    background: #ffffff;
+    border: none;
+    font-size: 10pt;
+    float: left;
+    /* color: #262626; */
+    padding-left: 37px;
+    border-radius: 5px;
+    transition: all .55s ease;
+    opacity: 0.7;
+}
+
+.container-1 .icon {
+    position: absolute;
+    top: 50%;
+    margin-left: -135px;
+    margin-top: 8px;
+    z-index: 1;
+    color: #4f5b66;
+}
+
+.fa {
+    display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-search:before {
+    content: "\f002";
+}
+
+.container-1 input#search:hover, .container-1 input#search:focus, .container-1 input#search:active {
+    outline: none;
+    background: #ffffff;
+    border: 1px solid #fcbc20;
+    transition: all .9s ease;
 }
