@@ -89,8 +89,9 @@
             </div>
             <div class="titleParaPoleCulture">Pôle</div>
             <div id="Culture" class="tabcontent1">
-                <div class="paraCulture">
-                    <h2>culture</h2>
+                <h2>culture</h2>
+            <div class="paraCulture">
+
                     <br>
                     <p>
                         Le pôle « Culture » de notre association veut favoriser et contribuer au développement culturel de ses bénéficiaires et de ses apprenants en leur proposant un panel diversifié d’actions concrètes de terrain.
@@ -116,10 +117,10 @@
                 </div>
             </div>
             <div id="Alphabetisation" class="tabcontent1">
+                <h2>Alphabétisation</h2>
                 <div class="paraCulture">
-                    <h2>Alphabétisation</h2>
                     <p><br>
-                        <strong>Cours d’alphabétisation et de Français Langue Etrangère</strong>
+                        <strong>Cours d’alphabétisation et de Français Langue Etrangère</strong> <br>
                         <br>
                         Notre pratique sociale de terrain nous permet d’identifier une série de situations problématiques liées à une méconnaissance du français, à une utilisation déficiente de la langue ou à une absence totale de scolarisation entraînant l’analphabétisme. Le public qui bénéficie de nos services se voit fréquemment confronté à de nombreuses situations d’isolement social, provoquées par le manque de communication, causant différents obstacles relationnels dans les rapports quotidiens avec les voisins, les commerçants, les administrations… Ces difficultés entraînent de nombreux problèmes psychologiques, sentiment d’humiliation, rejet de l’autre, repli communautaire et finalement absence d’intégration sociale.
                         <br><br>
@@ -142,8 +143,8 @@
                 </div>
             </div>
             <div id="Ecole" class="tabcontent1">
+                <h2>école des devoirs</h2>
                 <div class="paraCulture">
-                    <h2>école des devoirs</h2>
                     <p><br>
                         Entraide et Culture propose une école de devoirs (EdD) aux enfants âgés de 6 à 12 ans, essentiellement des élèves du primaire qui vivent dans les quartiers avoisinants. L’EdD accueille des enfants les lundis, mardis et jeudis de 15h30 à 17h30. Des activités culturelles et créatives sont régulièrement organisées le mercredi 13h à 17h et ponctuellement lors des congés scolaires.
                         <br><br>
@@ -176,8 +177,8 @@
                 </div>
             </div>
             <div id="Ntic" class="tabcontent1">
+                <h2>n.t.c.i</h2>
                 <div class="paraCulture">
-                    <h2>n.t.c.i</h2>
                     <p><br>
                         Depuis 2014, Entraide et Culture propose un soutien numérique à son public sous la forme d’initiations et de formations en informatique et aux technologies de l’information de la communication (TIC).
                         <br>

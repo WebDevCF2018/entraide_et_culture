@@ -78,11 +78,10 @@
             </div>
         </div>
         <div class=column_B>
-            <div class="globeyellow1"><img src= "img/globe-yellow.png" alt=""/></div>
             <div id="myDIVpresentation"></div>
             <div class="titlePresentation">Qui</div>
-            <div class="paraPresentation">
                 <h2>sommes-nous ?</h2>
+            <div class="paraPresentation">
                 L’ASBL Entraide et Culture, créée en 1983 à Forest par des bénévoles, apporte une aide et un soutien à un public précarisé et fragilisé.
                 <br><br>
                 L’association répond aux missions suivantes :<br>

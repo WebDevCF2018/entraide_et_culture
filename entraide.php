@@ -87,8 +87,8 @@
             </div>
             <div class="titleParaPoleEntraide">Pôle</div>
             <div id="Entraide" class="tabcontent">
+                <h2>Entraide</h2>
                 <div class="paraEntraide">
-                    <h2>Entraide</h2>
                     <br>
                     <p>Le pôle « Entraide » propose différents types d’aides, de soutiens ou d’accompagnements à l’attention d’un public précarisé, qui vit trop souvent dans des conditions particulièrement difficiles : les personnes âgées avec des petites pensions, les personnes bénéficiant des allocations de chômage, les personnes aidées par le CPAS, les personnes sans-abris ou sans papiers, les travailleurs pauvres …
                         <br>
@@ -112,8 +112,9 @@
                 </div>
             </div>
             <div id="AideAd" class="tabcontent">
+                <h2>Aide à domicile</h2>
                 <div class="paraEntraide">
-                    <h2>Aide à domicile</h2>
+
                     <p><br>
                         Le service d’Aide à domicile propose deux types d’aides : aides ménagères ou aides techniques. Il s’adresse principalement aux personnes en situation de précarité qui ne peuvent plus assumer seules, physiquement et/ou psychologiquement, les tâches quotidiennes tant au niveau de l’entretien de leur domicile qu’au niveau des travaux à y effectuer.
                         <br>
@@ -142,8 +143,8 @@
                 </div>
             </div>
             <div id="AideA" class="tabcontent">
+                <h2>aide alimentaire</h2>
                 <div class="paraEntraide">
-                    <h2>aide alimentaire</h2>
                     <p><br>
                         Le service d’aide alimentaire distribue des colis alimentaires aux personnes les plus démunies plusieurs fois par semaine en fonction de la situation sociale préalablement évaluée. Il met en place différents partenariats locaux autour de l’aide alimentaire.
                         <br>
@@ -169,8 +170,8 @@
                 </div>
             </div>
             <div id="VestiaireS" class="tabcontent">
+                <h2>Vestiaire social</h2>
                 <div class="paraEntraide">
-                    <h2>Vestiaire social</h2>
                     <p><br>
                         L’association dispose d’un vestiaire social qui propose une large gamme de vêtements, d’accessoires, de chaussures, de linges de maison… pour toute la famille, tous les besoins et tous les goûts, en bon état. Il est ouvert à tous mais vise essentiellement à répondre aux besoins des personnes les plus en difficulté afin qu’elles puissent se vêtir à petit prix voire gratuitement.
                         <br>

@@ -86,9 +86,10 @@
                </span>
         </div>
         <div class=column_B_accueil>
+         <div id="myDIVentraide"></div>
         <div class="mainTexte">
             <p>ASBL FONDÉE EN 1983 APPORTE UNE AIDE ET </br> UN SOUTIEN À UN PUBLIC PRÉCARISÉ ET FRAGILISÉ.</p>
-        </div><div></div>
+        </div>
         <div class="formetitre1">
             <div class="texteculture">
                      <span class="panel__nav panel__nav--left js-left">
