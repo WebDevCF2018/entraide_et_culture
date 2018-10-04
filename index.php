@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Oswald:700" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ENTRAIDE & CULTURE</title>
     <link rel="stylesheet" href="css/style.css">
     <script type='text/javascript' href='js/script.js'></script>

@@ -180,6 +180,7 @@ h1 {
 
 .zoom {
     place-self: center;
+    padding-top: 23px;
 }
 
 .panel {
@@ -439,7 +440,7 @@ section {
 
 .column_A {
     display: grid;
-    grid-template-rows: 0.2fr 1fr;
+    grid-template-rows: 0.2fr 0fr 1fr;
     background-color: #007468;
 }
 
@@ -474,79 +475,6 @@ section {
 
 .cercle1:hover {
 }
-
-/*--SEARCH BAR---------------------------------------------------------------------------------*/
-
-.logo {
-    display: grid;
-    width: 350px;
-    height: 350px;
-}
-
-.head-l {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-}
-
-.head_T {
-}
-
-.imagePara {
-    justify-self: center;
-    width: 71%;
-}
-
-.container-1 {
-    width: 300px;
-    vertical-align: middle;
-    white-space: nowrap;
-    position: relative;
-}
-
-.container-1 input#search {
-    width: 282px;
-    height: 35px;
-    background: #ffffff;
-    border: none;
-    font-size: 10pt;
-    float: left;
-    /* color: #262626; */
-    padding-left: 37px;
-    border-radius: 5px;
-    transition: all .55s ease;
-    opacity: 0.7;
-}
-
-.container-1 .icon {
-    position: absolute;
-    top: 50%;
-    margin-left: -135px;
-    margin-top: 8px;
-    z-index: 1;
-    color: #4f5b66;
-}
-
-.fa {
-    display: inline-block;
-    font-family: FontAwesome;
-    font-style: normal;
-    font-weight: normal;
-    line-height: 1;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
-
-.fa-search:before {
-    content: "\f002";
-}
-
-.container-1 input#search:hover, .container-1 input#search:focus, .container-1 input#search:active {
-    outline: none;
-    background: #ffffff;
-    border: 1px solid #fcbc20;
-    transition: all .9s ease;
-}
-
 
 /*--TYPOGRAPHY---------------------------------------------------------------------------------*/
 /*	TYPOGRAPHY
@@ -1596,7 +1524,7 @@ a.imageArticle1:hover img {
 .paraPresentation {
     text-transform: none !important;
     text-align: justify!important;
-    overflow: scroll;
+    overflow: auto;
     height: 587px;
     padding-left: 40px;
     padding-right: 40px;
@@ -1730,3 +1658,124 @@ a.imageArticle1:hover img {
 @media(max-width: 500px) {
 }
 
+.logo {
+    display: grid;
+    width: 350px;
+    height: 350px;
+}
+
+.head-l {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.head_T {
+}
+
+.imagePara {
+    justify-self: center;
+    width: 71%;
+}
+
+.container-1 {
+    width: 300px;
+    vertical-align: middle;
+    white-space: nowrap;
+    position: relative;
+}
+
+.container-1 input#search {
+    width: 282px;
+    height: 35px;
+    background: #ffffff;
+    border: none;
+    font-size: 10pt;
+    float: left;
+    /* color: #262626; */
+    padding-left: 37px;
+    border-radius: 5px;
+    transition: all .55s ease;
+    opacity: 0.7;
+}
+
+.container-1 .icon {
+    position: absolute;
+    top: 50%;
+    margin-left: -135px;
+    margin-top: 8px;
+    z-index: 1;
+    color: #4f5b66;
+}
+
+.fa {
+    display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-search:before {
+    content: "\f002";
+}
+
+.container-1 input#search:hover, .container-1 input#search:focus, .container-1 input#search:active {
+    outline: none;
+    background: #ffffff;
+    border: 1px solid #fcbc20;
+    transition: all .9s ease;
+}
+
+#global section {
+    padding: inherit!important;
+    margin-right: inherit!important;
+}
+#global ul, #global li {
+    list-style: inherit;
+    /* display: inherit!important; */
+    /* margin-left: inherit!important; */
+    margin-right: inherit!important;
+    /* flex-wrap: inherit!important; */
+}
+
+#global img {
+    vertical-align: inherit!important;
+    outline: inherit!important;
+    border: inherit!important;
+    height: inherit!important;
+}
+#global {
+    margin: 0 auto!important;
+}
+
+#global h1 {
+    text-align:center;
+}
+
+#vignettes ul {
+    list-style:none;
+    display: flex;
+    padding: 21px;
+}
+
+#vignettes ul li {flex-wrap: wrap;height: 76px;}
+
+#vignettes ul li img {
+    border: 2px solid black;
+    padding: 3px;
+    width: 80px;
+    border-radius: 60px;
+}
+
+#grandephoto img {
+    /* border: 2px solid red; */
+    /* padding: 5px; */
+    /* margin-left: 145px; */
+}
+
+#grandephoto p {
+    text-align: center;
+    font-size: 24px;
+}
