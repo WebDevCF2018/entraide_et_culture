@@ -15,7 +15,7 @@
             <div class="box">
                 <div class="container-1">
                     <span class="icon"><i class="fa fa-search"></i></span>
-                    <input type="search" id="search" placeholder="Search..." />
+                    <input type="search" id="search" placeholder="Rechercher..." />
                 </div>
             </div>
         </div>
@@ -81,7 +81,6 @@
             </div>
         </div>
         <div class=column_B>
-            <div class="globeyellow1"><img src= "img/globe-yellow.png" alt=""/></div>
             <div id="myDIVpresentation"></div>
             <div class="titlePresentation">ancrage</div>
                 <h2>local</h2>

@@ -475,6 +475,79 @@ section {
 .cercle1:hover {
 }
 
+/*--SEARCH BAR---------------------------------------------------------------------------------*/
+
+.logo {
+    display: grid;
+    width: 350px;
+    height: 350px;
+}
+
+.head-l {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.head_T {
+}
+
+.imagePara {
+    justify-self: center;
+    width: 71%;
+}
+
+.container-1 {
+    width: 300px;
+    vertical-align: middle;
+    white-space: nowrap;
+    position: relative;
+}
+
+.container-1 input#search {
+    width: 282px;
+    height: 35px;
+    background: #ffffff;
+    border: none;
+    font-size: 10pt;
+    float: left;
+    /* color: #262626; */
+    padding-left: 37px;
+    border-radius: 5px;
+    transition: all .55s ease;
+    opacity: 0.7;
+}
+
+.container-1 .icon {
+    position: absolute;
+    top: 50%;
+    margin-left: -135px;
+    margin-top: 8px;
+    z-index: 1;
+    color: #4f5b66;
+}
+
+.fa {
+    display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-search:before {
+    content: "\f002";
+}
+
+.container-1 input#search:hover, .container-1 input#search:focus, .container-1 input#search:active {
+    outline: none;
+    background: #ffffff;
+    border: 1px solid #fcbc20;
+    transition: all .9s ease;
+}
+
+
 /*--TYPOGRAPHY---------------------------------------------------------------------------------*/
 /*	TYPOGRAPHY
 /*-----------------------------------------------------------------------------------*/
@@ -572,6 +645,7 @@ h6 {
 .tab {
     overflow: hidden;
     justify-self: right;
+    padding-right: 18px;
 }
 
 /* Style the buttons inside the tab */
@@ -1656,72 +1730,3 @@ a.imageArticle1:hover img {
 @media(max-width: 500px) {
 }
 
-.logo {
-    display: grid;
-    width: 350px;
-    height: 350px;
-}
-
-.head-l {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-}
-
-.head_T {
-}
-
-.imagePara {
-    justify-self: center;
-    width: 71%;
-}
-
-.container-1 {
-    width: 300px;
-    vertical-align: middle;
-    white-space: nowrap;
-    position: relative;
-}
-
-.container-1 input#search {
-    width: 282px;
-    height: 35px;
-    background: #ffffff;
-    border: none;
-    font-size: 10pt;
-    float: left;
-    /* color: #262626; */
-    padding-left: 37px;
-    border-radius: 5px;
-    transition: all .55s ease;
-    opacity: 0.7;
-}
-
-.container-1 .icon {
-    position: absolute;
-    top: 50%;
-    margin-left: -135px;
-    margin-top: 8px;
-    z-index: 1;
-    color: #4f5b66;
-}
-
-.fa {
-    display: inline-block;
-    font-family: FontAwesome;
-    font-style: normal;
-    font-weight: normal;
-    line-height: 1;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
-
-.fa-search:before {
-    content: "\f002";
-}
-
-.container-1 input#search:hover, .container-1 input#search:focus, .container-1 input#search:active {
-    outline: none;
-    background: #ffffff;
-    border: 1px solid #fcbc20;
-    transition: all .9s ease;
-}

@@ -15,7 +15,7 @@
             <div class="box">
                 <div class="container-1">
                     <span class="icon"><i class="fa fa-search"></i></span>
-                    <input type="search" id="search" placeholder="Search..." />
+                    <input type="search" id="search" placeholder="Rechercher..." />
                 </div>
             </div>
         </div>
@@ -74,7 +74,7 @@
     <div id="conteneur">
         <div class=column_A>
             <div class=zoom>
-                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 col-ss-12 padbot30 gallery_img lorem"><a href="img/entraide.png" data-gal="prettyPhoto[gal]"><i></i><img src="img/entraide.png" alt="" style="width: 100%;" /></a></div>
+                <div class="col-lg-1 padbot30 gallery_img lorem"><a href="img/entraide.png" data-gal="prettyPhoto[gal]"><i></i><img src="img/entraide.png" alt="" style="width: 100%;" /></a></div>
             </div>
             <div class="imagePara">
                 <p>L’ASBL Entraide et Culture, créée en 1983 à Forest par des bénévoles, apporte une aide et un soutien à un public précarisé et fragilisé.</p>
