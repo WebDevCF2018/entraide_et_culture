@@ -74,7 +74,39 @@
     <div id="conteneur">
         <div class=column_A>
             <div class=zoom>
-                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 col-ss-12 padbot30 gallery_img lorem"><a href="images/gallery/child.jpg" data-gal="prettyPhoto[gal]"><i></i><img src="images/gallery/child.jpg" alt="" style="width: 100%;" /></a></div>
+                <div class="col-lg-1 padbot30 gallery_img lorem" id="grandephotoancrage">
+                    <a href="images/gallery/hands_512.jpg" data-gal="prettyPhoto[gal]">
+                        <i></i>
+                        <img src="images/gallery/hands_512.jpg" alt="" style="width: 100%;" /></a>
+                </div>
+            </div>
+            <script type="text/javascript">
+                function afficheGrandePhotoancrage(imageCliquee) {
+                    /* je récupère dans l'attribut alt de l'image cliquée son nom */
+                    console.log("afficheGrandePhoto : " + imageCliquee.alt);
+                    /* URL de la vignette cliquée ? */
+                    var URLvignette = imageCliquee.getAttribute("src");
+                    console.log("URL de la photo cliquée : " + URLvignette);
+                    /* Enlever dans l'URL de ma vignette le "128" et le remplacer par "512" pour avoir l'URL de la grande photo correspondante */
+                    var URLgrandephoto = URLvignette.substr(0,(URLvignette.length - 7)) + "512.jpg";
+                    console.log(URLgrandephoto);
+                    /* Modifier l'attribut src de la grande photo */
+                    var grandePhoto = document.querySelector("#grandephotoancrage img");
+                    grandePhoto.setAttribute("src", URLgrandephoto);
+                    grandePhoto.setAttribute("alt", imageCliquee.alt);
+                }
+            </script>
+            <div id="global">
+                <section>
+
+
+                </section>
+                <section id="vignettes">
+                    <ul>
+                        <li><img src="images/gallery/hands_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhotoancrage(this);"/></li>
+                        <li><img src="images/gallery/bike_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhotoancrage(this);" /></li>
+                    </ul>
+                </section>
             </div>
             <div class="imagePara">
                 <p>L’ASBL Entraide et Culture, créée en 1983 à Forest par des bénévoles, apporte une aide et un soutien à un public précarisé et fragilisé.</p>
@@ -85,28 +117,28 @@
             <div class="titlePresentation">ancrage</div>
                 <h2>local</h2>
             <div class="paraPresentation">
-                L’ASBL Entraide et Culture, créée en 1983 à Forest par des bénévoles, apporte une aide et un soutien à un public précarisé et fragilisé.
+                <strong>« Revitaliser : apporter une vitalité nouvelle. »</strong><br>
+                <br>
+                Grâce à la région de Bruxelles-Capital dans le cadre d’un large programme appelé « Politique de la Ville », la commune de Forest a pu bénéficier d’un financement permettant de revitaliser le quartier Saint-Antoine.
+                Pour ce faire, 4 acteurs communaux et associatifs œuvrent depuis janvier 2018 au développement du site de l’Imprimerie, au développement de partenariats et à l’amélioration de la visibilité de ce qui existe déjà dans le quartier. <br>
+                Naturellement, des démarches participatives et inclusives pour les habitants du quartier sont privilégiées. <br>
+                Entraide & Culture est l’un de ces acteurs avec la Maison de Quartier Saint-Antoine, la Cellule Environnement de la commune et Forest Quartier Santé. <br>
+                <br>
+                Le site Imprimerie (située au n°5 de la rue de l’Imprimerie) prend place dans un quartier qui propose peu d’espaces verts et récréatifs où, pourtant, la densité de population est élevée. Ce site, avec son potager pédagogique comme vitrine, présente un riche potentiel de convivialité, d’espaces publics et d’amélioration du cadre de vie. <br>
+                L'enjeu à relever dans les trois années à venir sera de faire de ce lieu un réel pôle d’activités œuvrant au mieux-vivre ensemble et à l’amélioration du cadre de vie des habitants.
                 <br><br>
-                L’association répond aux missions suivantes :<br>
-                <br>- Développer l’action sociale globale ;
-                <br>- Favoriser tout ce qui peut contribuer au développement culturel en général ;
-                <br>- Lutter contre la précarité et l’exclusion ;
-                <br>- Aider à la construction des projets personnels via la formation et des actions de cohésion sociale ;
-                <br>- Aider les personnes vulnérables dans leurs problèmes quotidiens.
-                <br><br>Entraide et Culture accomplit ses missions et ses actions selon des valeurs qui sont :<br>
-                <br>-La solidarité, l’aide et le soutien envers les personnes les plus fragiles et démunies ;
-                <br>-Le respect de tout type de différences (sociales, culturelles, religieuses, philosophiques…) ;
-                <br>-La mise à disposition d’une information complète pour favoriser l’autonomie de tous ;
-                <br>-Le développement des potentialités et des capacités de chacun ;
-                <br>-L’encouragement à la participation citoyenne et à la coopération ;
-                <br>-La justice sociale ;
-                <br>-La garantie des droits de l’homme selon la charte universelle de 1958.
-                <br><br>
-                L’association organise ses activités autour de deux pôles : « Entraide » et « Culture »<br><br>
-                Etant située à Forest, à la frontière avec d‘autres communes comme Saint-Gilles, Anderlecht ou Uccle, Entraide et Culture est active auprès d’un public issu principalement dans cette zone géographique.
-                <br><br>
-                Vous trouverez, dans les pages qui suivent, un descriptif des activités de notre association.
-                </br></br> </br></br>Auteur: Laura Vaillant</br> Date: 17.09.2018
+                Pour rendre le potager visible et accessible à tous, un panel varié d’activités est proposé aux habitants pour qu’ils se rencontrent autour de thématiques porteuses de sens et de convivialité, de découvrir certaines infrastructures de leur quartier en le décloisonnant, de développer collectivement un regard citoyen sur celui-ci et de le réinvestir positivement. <br><br>
+                En résumé, depuis le début de l’année Entraide & Culture a organisé : <br>
+                -	Une séance de sensibilisation aux écrans en février <br>
+                -	Une séance d’information sur le vote communal en mars <br>
+                -	La fête des voisins du quartier Saint-Antoine en mai <br>
+                -	Une marche exploratoire en juin <br>
+                -	Une soirée pizza avec retransmission des huitièmes de final des Diables en juillet <br>
+                -	Une soirée pizza cinéma en août <br>
+                -	Une bourse de matériel scolaire en septembre <br><br>
+                Ont également été lancé la gazette de quartier nommée « La Gazette d’Antoine » et le blog qui va avec. Celui-ci permet de retrouver toute l’actu de quartier. Cliquez ici pour le consulter et cliquez ici pour télécharger la dernière Gazette. <br>
+                <br>
+                <a href="http://www.leblogdantoine.be/">http://www.leblogdantoine.be/</a>
             </div>
 
         </div>

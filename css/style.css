@@ -88,7 +88,7 @@ img {
 
 a:hover, a:focus {
     color: #fcbc20 !important;
-    font-size: 1.35em !important;
+    /* font-size: 1.35em !important; */
 }
 
 .anext a:hover, a:focus {
@@ -180,6 +180,7 @@ h1 {
 
 .zoom {
     place-self: center;
+    padding-bottom: 3px;
     padding-top: 23px;
 }
 
@@ -1489,10 +1490,11 @@ a.imageArticle1:hover img {
 
 .imagePara p {
     text-transform: none !important;
-    text-align: justify!important;
+    /* text-align: justify!important; */
     color: white;
     font-size: 1em;
     font-style: italic;
+    /* padding: 21px; */
 }
 
 .imagePara1 p {
@@ -1674,7 +1676,8 @@ a.imageArticle1:hover img {
 
 .imagePara {
     justify-self: center;
-    width: 71%;
+    width: 85%;
+    margin-top: 17px;
 }
 
 .container-1 {
@@ -1757,7 +1760,9 @@ a.imageArticle1:hover img {
 #vignettes ul {
     list-style:none;
     display: flex;
-    padding: 21px;
+    /* padding: 21px; */
+    margin-top: 28px;
+    /* margin: 17px; */
 }
 
 #vignettes ul li {flex-wrap: wrap;height: 76px;}
@@ -1767,6 +1772,18 @@ a.imageArticle1:hover img {
     padding: 3px;
     width: 80px;
     border-radius: 60px;
+    cursor: pointer;
+    filter: sepia(0.8);
+    /* opacity: 0.7; */
+}
+#vignettes ul li img:hover {
+    border: 2px solid white;
+    padding: 3px;
+    width: 80px;
+    border-radius: 60px;
+    cursor: pointer;
+    opacity: 0.7;
+    filter: none;
 }
 
 #grandephoto img {
