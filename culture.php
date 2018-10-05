@@ -38,13 +38,13 @@
                            </span>
                 </li>
                 <li>
-                           <span class="panel__nav panel__nav--left js-left">
+                           <span class="panel__nav panel__nav--left moveM2xP1y">
                               <div class="whee"><img src="img/wheelses.png" alt="" width="32"/></div>
                               <div class="line">ancrage local</div>
                            </span>
                 </li>
                 <li>
-                           <span class="panel__nav panel__nav--left js-left" onclick="texts(event, 'Entraide')">
+                           <span class="panel__nav panel__nav--left jsleftc" onclick="texts(event, 'Entraide')">
                               <div class="hands"><img src="img/hands.png" alt="" width="33"/></div>
                               <div class="line">entraide</div>
                            </span>

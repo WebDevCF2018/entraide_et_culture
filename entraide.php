@@ -50,13 +50,13 @@
                            </span>
                 </li>
                 <li>
-                           <span class="panel__nav panel__nav--right js-right" onclick="text(event, 'Culture')">
+                           <span class="panel__nav panel__nav--right jsleftb" onclick="text(event, 'Culture')">
                               <div class="glasses"><img src="img/glasses.png" alt="" width="34"/></div>
                               <div class="line">culture</div>
                            </span>
                 </li>
                 <li>
-                           <span class="panel__nav panel__nav--right js-right">
+                           <span class="panel__nav panel__nav--right moveP2xM1y">
                               <div class="arbo"><img src="img/arbo.png" alt="" width="33"/></div>
                               <div class="line">asbl mapping</div>
                            </span>
