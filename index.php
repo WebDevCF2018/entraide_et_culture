@@ -100,8 +100,11 @@
         evt.currentTarget.className += " active";
     }
 </script>
-<?php
-include "js/script.js";
-?>
+        <script src="//static.codepen.io/assets/common/stopExecutionOnTimeout-41c52890748cd7143004e05d3c5f786c66b19939c4500ce446314d1748483e13.js"></script>
+        <script>
+            <?php
+            include "js/script.min.js";
+            ?>
+        </script>
 </body>
 </html>

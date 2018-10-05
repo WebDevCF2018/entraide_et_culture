@@ -32,13 +32,13 @@
                            </span>
                 </li>
                 <li>
-                           <span class="panel__nav panel__nav--up js-up">
+                           <span class="panel__nav panel__nav--up moveDownc">
                               <div class="visit"><img src="img/visit.png" alt="" width="35"/></div>
                               <div class="line">presentation</div>
                            </span>
                 </li>
                 <li>
-                           <span class="panel__nav panel__nav--up js-up">
+                           <span class="panel__nav panel__nav--up jsupc">
                               <div class="whee"><img src="img/wheelses.png" alt="" width="32"/></div>
                               <div class="line">ancrage local</div>
                            </span>
@@ -56,7 +56,7 @@
                            </span>
                 </li>
                 <li>
-                           <span class="panel__nav panel__nav--up js-up">
+                           <span class="panel__nav panel__nav--up jsupd">
                               <div class="arbo"><img src="img/arbo.png" alt="" width="33"/></div>
                               <div class="line">asbl mapping</div>
                            </span>

@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfe44e5-27df-45d6-97f7-058cdbf5670d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/script.min.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/ancrage.php" afterPath="$PROJECT_DIR$/ancrage.php" />
+      <change beforePath="$PROJECT_DIR$/asbl.php" afterPath="$PROJECT_DIR$/asbl.php" />
+      <change beforePath="$PROJECT_DIR$/culture.php" afterPath="$PROJECT_DIR$/culture.php" />
+      <change beforePath="$PROJECT_DIR$/entraide.php" afterPath="$PROJECT_DIR$/entraide.php" />
+      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change beforePath="$PROJECT_DIR$/infos.php" afterPath="$PROJECT_DIR$/infos.php" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
+      <change beforePath="$PROJECT_DIR$/presentation.php" afterPath="$PROJECT_DIR$/presentation.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1206">
-              <caret line="18" column="77" lean-forward="true" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
+              <caret line="18" column="77" lean-forward="false" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -87,10 +95,11 @@
         <entry file="file://$PROJECT_DIR$/infos.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="752">
-              <caret line="186" column="2" lean-forward="true" selection-start-line="186" selection-start-column="2" selection-end-line="186" selection-end-column="2" />
+              <caret line="186" column="2" lean-forward="false" selection-start-line="186" selection-start-column="2" selection-end-line="186" selection-end-column="2" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#4;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <marker date="1538745535916" expanded="true" signature="3034:3234" ph="..." />
               </folding>
             </state>
           </provider>
@@ -101,7 +110,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="616">
               <caret line="75" column="13" lean-forward="false" selection-start-line="74" selection-start-column="1" selection-end-line="200" selection-end-column="14" />
-              <folding />
+              <folding>
+                <marker date="1538745535866" expanded="true" signature="2988:3188" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,7 +132,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="752">
               <caret line="140" column="89" lean-forward="false" selection-start-line="140" selection-start-column="89" selection-end-line="140" selection-end-column="89" />
-              <folding />
+              <folding>
+                <marker date="1538745535861" expanded="true" signature="3363:3574" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,11 +149,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="asbl.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="asbl.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/asbl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="117" column="17" lean-forward="false" selection-start-line="117" selection-start-column="12" selection-end-line="117" selection-end-column="53" />
+            <state relative-caret-position="637">
+              <caret line="62" column="21" lean-forward="true" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -150,8 +163,10 @@
         <entry file="file://$PROJECT_DIR$/culture.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="81" column="24" lean-forward="true" selection-start-line="80" selection-start-column="10" selection-end-line="82" selection-end-column="18" />
-              <folding />
+              <caret line="81" column="24" lean-forward="false" selection-start-line="80" selection-start-column="10" selection-end-line="82" selection-end-column="18" />
+              <folding>
+                <marker date="1538745535864" expanded="true" signature="2354:2552" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -214,12 +229,12 @@
         <option value="$PROJECT_DIR$/entraide.php" />
         <option value="$PROJECT_DIR$/presentation.php" />
         <option value="$PROJECT_DIR$/css/prettyPhoto.css" />
-        <option value="$PROJECT_DIR$/asbl.php" />
         <option value="$PROJECT_DIR$/ancrage.php" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/infos.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/asbl.php" />
       </list>
     </option>
   </component>
@@ -230,7 +245,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-10" />
     <option name="y" value="65" />
     <option name="width" value="1569" />
@@ -421,7 +436,7 @@
       <workItem from="1538550912955" duration="1328000" />
       <workItem from="1538564564652" duration="10224000" />
       <workItem from="1538650142347" duration="11385000" />
-      <workItem from="1538725507338" duration="17706000" />
+      <workItem from="1538725507338" duration="18328000" />
     </task>
     <servers />
   </component>
@@ -431,10 +446,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211661000" />
+    <option name="totallyTimeSpent" value="212283000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="65" width="1569" height="1045" extended-state="0" />
+    <frame x="-10" y="65" width="1569" height="1045" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1545396" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -685,7 +700,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="752">
           <caret line="140" column="89" lean-forward="false" selection-start-line="140" selection-start-column="89" selection-end-line="140" selection-end-column="89" />
-          <folding />
+          <folding>
+            <marker date="1538745535861" expanded="true" signature="3363:3574" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -708,8 +725,10 @@
     <entry file="file://$PROJECT_DIR$/culture.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="81" column="24" lean-forward="true" selection-start-line="80" selection-start-column="10" selection-end-line="82" selection-end-column="18" />
-          <folding />
+          <caret line="81" column="24" lean-forward="false" selection-start-line="80" selection-start-column="10" selection-end-line="82" selection-end-column="18" />
+          <folding>
+            <marker date="1538745535864" expanded="true" signature="2354:2552" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -725,15 +744,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="75" column="13" lean-forward="false" selection-start-line="74" selection-start-column="1" selection-end-line="200" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/asbl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="117" column="17" lean-forward="false" selection-start-line="117" selection-start-column="12" selection-end-line="117" selection-end-column="53" />
-          <folding />
+          <folding>
+            <marker date="1538745535866" expanded="true" signature="2988:3188" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -786,10 +799,11 @@
     <entry file="file://$PROJECT_DIR$/infos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="752">
-          <caret line="186" column="2" lean-forward="true" selection-start-line="186" selection-start-column="2" selection-end-line="186" selection-end-column="2" />
+          <caret line="186" column="2" lean-forward="false" selection-start-line="186" selection-start-column="2" selection-end-line="186" selection-end-column="2" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#4;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <marker date="1538745535916" expanded="true" signature="3034:3234" ph="..." />
           </folding>
         </state>
       </provider>
@@ -797,7 +811,15 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1206">
-          <caret line="18" column="77" lean-forward="true" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
+          <caret line="18" column="77" lean-forward="false" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asbl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="62" column="21" lean-forward="true" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
           <folding />
         </state>
       </provider>
