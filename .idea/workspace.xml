@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfe44e5-27df-45d6-97f7-058cdbf5670d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change beforePath="$PROJECT_DIR$/infos.php" afterPath="$PROJECT_DIR$/infos.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="811">
-              <caret line="1835" column="1" lean-forward="false" selection-start-line="1835" selection-start-column="1" selection-end-line="1835" selection-end-column="1" />
+              <caret line="1841" column="1" lean-forward="false" selection-start-line="1841" selection-start-column="1" selection-end-line="1841" selection-end-column="1" />
               <folding>
                 <element signature="e#95#194#0" expanded="false" />
                 <element signature="e#206#271#0" expanded="false" />
@@ -84,11 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="infos.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="infos.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/infos.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="95" column="30" lean-forward="true" selection-start-line="95" selection-start-column="30" selection-end-line="95" selection-end-column="30" />
+            <state relative-caret-position="400">
+              <caret line="90" column="38" lean-forward="false" selection-start-line="90" selection-start-column="38" selection-end-line="90" selection-end-column="38" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -218,8 +216,8 @@
         <option value="$PROJECT_DIR$/ancrage.php" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/infos.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/infos.php" />
       </list>
     </option>
   </component>
@@ -416,7 +414,7 @@
       <workItem from="1538550912955" duration="1328000" />
       <workItem from="1538564564652" duration="10224000" />
       <workItem from="1538650142347" duration="11385000" />
-      <workItem from="1538725507338" duration="12699000" />
+      <workItem from="1538725507338" duration="13442000" />
     </task>
     <servers />
   </component>
@@ -426,7 +424,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="206654000" />
+    <option name="totallyTimeSpent" value="207397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="171" y="72" width="1569" height="1045" extended-state="1" />
@@ -740,20 +738,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/infos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="95" column="30" lean-forward="true" selection-start-line="95" selection-start-column="30" selection-end-line="95" selection-end-column="30" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="811">
-          <caret line="1835" column="1" lean-forward="false" selection-start-line="1835" selection-start-column="1" selection-end-line="1835" selection-end-column="1" />
+          <caret line="1841" column="1" lean-forward="false" selection-start-line="1841" selection-start-column="1" selection-end-line="1841" selection-end-column="1" />
           <folding>
             <element signature="e#95#194#0" expanded="false" />
             <element signature="e#206#271#0" expanded="false" />
@@ -792,6 +780,16 @@
             <element signature="e#2943#3033#0" expanded="false" />
             <element signature="e#3118#3188#0" expanded="false" />
             <element signature="e#3196#3271#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="90" column="38" lean-forward="false" selection-start-line="90" selection-start-column="38" selection-end-line="90" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

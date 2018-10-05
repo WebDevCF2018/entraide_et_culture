@@ -441,7 +441,7 @@ section {
 
 .column_A {
     display: grid;
-    grid-template-rows: 0.2fr 0fr 1fr;
+    grid-template-rows: 2.2fr 0fr 1fr;
     background-color: #007468;
 }
 
@@ -452,6 +452,7 @@ section {
     background-image: url(../img/globe-yellow.png);
     padding-bottom: 100%;
     border-top: 1px solid #fcbc20;
+    grid-column: 1/3;
 }
 
 .logo1 img {
@@ -629,9 +630,9 @@ h6 {
     display: grid;
     grid-template-columns: 1fr 1fr;
     overflow: -webkit-paged-y;
-    padding: 36px 44px;
+    /* padding: 36px 44px; */
     background-color: #fff;
-    background-position: 19px -130px;
+    background-position: 12px -130px;
     background-size: 103%;
     background-repeat: no-repeat;
     background-image: url(../img/globe-yellow.png);
@@ -1104,7 +1105,9 @@ a.imageArticle1:hover img {
 }
 
 .clients_description {
-    /* width: 107px; */
+    /* margin-left: 73px; */
+    /* margin-right: -4px; */
+    /* margin-top: 15%; */
 }
 
 .clients_description h1 {
@@ -1508,10 +1511,13 @@ a.imageArticle1:hover img {
 .textePartenaires {
     text-align: justify;
     width: 102%;
+    background: #ffffff73;
 }
 
 .blocPartenaires {
-    width: 204%;
+    text-align: justify;
+    /* width: 46%; */
+    padding: 48px;
 }
 
 .imagePara p {

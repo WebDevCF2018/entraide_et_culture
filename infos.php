@@ -83,7 +83,7 @@
                 </div>
 
         <div class=column_A>
-            <div class="col-md-6 padbot30">
+            <div class="padbot30">
                 <div class="clients_description">
                     <div class="blocPartenaires">
                         <div class="titlePartenaires">nos partenaires</div>
