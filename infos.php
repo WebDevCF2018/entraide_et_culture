@@ -88,11 +88,11 @@
                     <div class="blocPartenaires">
                         <div class="titlePartenaires">nos partenaires</div>
                         <div class="titrePartenaires">
-                            <h3>Title</h3>
+                            <h3></h3>
                         </div>
                         <br>
                         <div class="textePartenaires">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur a neque a metus congue congue at sed metus. Aliquam quis augue dictum.</p>
+                            <p></p>
                         </div>
                     </div>
                 </div>
@@ -150,7 +150,11 @@
                         </div>
                         <!-- //Row -->
                 </div>
-        <div class=column_B>
+        <div class=column_Binfo style="
+             grid-column: 1/3;
+                margin-top: 45px;
+                ">
+            <div class="titleInfo">Nos partenaires</div>
             <div class="col-md-6 padbot30">
                 <div class="row clients_wrap">
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">

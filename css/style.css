@@ -441,7 +441,7 @@ section {
 
 .column_A {
     display: grid;
-    grid-template-rows: 2.2fr 0fr 1fr;
+    grid-template-rows: 0.2fr 0fr 1fr;
     background-color: #007468;
 }
 
@@ -452,8 +452,16 @@ section {
     background-image: url(../img/globe-yellow.png);
     padding-bottom: 100%;
     border-top: 1px solid #fcbc20;
-    grid-column: 1/3;
 }
+.column_Binfo {
+    display: grid;
+    padding: 23px 44px;
+    background-color: #ffffffad;
+    /* background-image: url(../img/globe-yellow.png); */
+    padding-bottom: 100%;
+    border-top: 1px solid #fcbc20;
+}
+
 
 .logo1 img {
     vertical-align: middle;
@@ -632,7 +640,7 @@ h6 {
     overflow: -webkit-paged-y;
     /* padding: 36px 44px; */
     background-color: #fff;
-    background-position: 12px -130px;
+    background-position: 19px -130px;
     background-size: 103%;
     background-repeat: no-repeat;
     background-image: url(../img/globe-yellow.png);
@@ -995,8 +1003,8 @@ a.imageArticle1:hover img {
 }
 
 .row {
-    margin-right: -206px!important;
-    margin-left: 14px!important;
+    /* margin-right: -206px!important; */
+    /* margin-left: 14px!important; */
     /* margin-top: 10%; */
 }
 
@@ -1105,9 +1113,7 @@ a.imageArticle1:hover img {
 }
 
 .clients_description {
-    /* margin-left: 73px; */
-    /* margin-right: -4px; */
-    /* margin-top: 15%; */
+    /* width: 107px; */
 }
 
 .clients_description h1 {
@@ -1511,13 +1517,10 @@ a.imageArticle1:hover img {
 .textePartenaires {
     text-align: justify;
     width: 102%;
-    background: #ffffff73;
 }
 
 .blocPartenaires {
-    text-align: justify;
-    /* width: 46%; */
-    padding: 48px;
+    width: 204%;
 }
 
 .imagePara p {
@@ -1830,7 +1833,8 @@ a.imageArticle1:hover img {
 }
 .rowmap{
     place-self: center;
-    margin-top: 33px;
+    margin-top: 14px;
+    margin-left: 11px;
 }
 .adresse{
     /* place-self: center; */
