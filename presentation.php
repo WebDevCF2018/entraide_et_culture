@@ -62,7 +62,7 @@
                            </span>
                 </li>
                 <li>
-                           <span class="panel__nav panel__nav--down js-down">
+                           <span class="panel__nav panel__nav--down jsdownb">
                               <div class="location"><img src="img/location.png" alt="" width="33"/></div>
                               <div class="line">infos pratiques</div>
                            </span>
