@@ -155,7 +155,7 @@
                 margin-top: 45px;
                 ">
             <div class="titleInfo">Nos partenaires</div>
-            <div class="col-md-6 padbot30">
+            <div class="padbot30">
                 <div class="row clients_wrap">
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
                         <a class="client_logo" href="javascript:void(0);"><img src="images/clients/6.png" alt="" /></a>
