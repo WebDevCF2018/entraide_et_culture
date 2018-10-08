@@ -122,6 +122,11 @@
                                     <div class="validation"></div>
                                 </div>
                                 <button type="submit">Envoyer message</button>
+                                <br><br>
+                                <p>En renseignant votre adresse e-mail, vous acceptez nos derniers articles de blog par courier électronique et vous prenez connaissance de notre <a>Politique de confidentialité</a>.
+                                    <br><br>
+                                    Vous pouvez vous désinscrire à tout moment à l'aide des liens de désincription ou en nous contactant à l'adresse xxx@entraideetculture.be
+                                </p>
                             </form>
                         </div>
                     </div>
@@ -145,7 +150,6 @@
                                     <a href="javascript:void(0);"><i class="fa fa-facebook"></i></a>
                                 </div>
                             </div>
-
                         </div>
                         <!-- //Row -->
                 </div>
@@ -157,40 +161,40 @@
             <div class="padbot30">
                 <div class="row clients_wrap">
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="img/actiris.png" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/AC.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="img/Logo_Francophones_Bruxelles.png" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/CO.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="img/forest.png" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/BE.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="img/logo.png" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/FR.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="img/projet-portail-230OK_03.png" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/NE" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
                         <a class="client_logo" href="javascript:void(0);"><img src="img/EU.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="img/cpas.png" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/CP.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="img/logo_lee.png" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/LE.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="img/Logo_Integration_Sociale.gif" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/INT" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="img/foodbanks-logo.png" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/FD.png" alt="" /></a>
                     </div>
 
 
                 </div>
+
             </div>
-                </div>
             </div>
 
 
