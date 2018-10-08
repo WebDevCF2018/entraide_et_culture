@@ -420,22 +420,11 @@ section {
 
 .socialf {
     opacity: 0.9;
-    filter: sepia(57%);
+    filter: sepia(100%);
     -webkit-transition: all 0.3s;
 }
 
 .socialf:hover {
-    filter: none!important;
-}
-
-.socialv {
-    opacity: 0.9;
-    filter: sepia(77%);
-    padding-left: 6px;
-    -webkit-transition: all 0.3s;
-}
-
-.socialv:hover {
     filter: none!important;
 }
 
@@ -1134,6 +1123,8 @@ a.imageArticle1:hover img {
 
 .clients_wrap a {
     display: block;
+    opacity: 0.7;
+    filter: sepia(100%);
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
 }
@@ -1148,6 +1139,7 @@ a.imageArticle1:hover img {
     opacity: 1;
     -webkit-transform: scale(1);
     transform: scale(1);
+    filter: none;
 }
 
 .icons {

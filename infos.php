@@ -3,7 +3,6 @@
         <div class="head-l">
             <div class="socialg">
                 <div class="socialf"><a href="https://www.facebook.com/entraideetculture/" class="social"><img src="img/facebook.png" alt="facebook"/></a></div>
-                <div class="socialv"><a href="#" class="social"><img src="img/v.png" alt="vimeo"/></a></div>
             </div>
             <span class="panel__zoom1 js-zoom">
                     <div class="cercle1">
@@ -76,8 +75,8 @@
                 <div class="rowmap">
                     <div class="col-lg-4 col-md-4 padbot30">
                         <div id="map">
-                            <iframe height="300" style="border:none; scrolling:no; marginheight:0; marginwidth:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26448.534201747054!2d-118.24590761238238!3d34.042158170531856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c75ddc27da13%3A0xe22fdf6f254608f4!2sLos+Angeles%2C+California%2C+Stati+Uniti!5e0!3m2!1sit!2sit!4v1422286433932">
-                            </iframe>
+
+                            <iframe height="300" style="border:none; scrolling:no; marginheight:0; marginwidth:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2520.097426754264!2d4.327843551590703!3d50.82935927942896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c41537c855e9%3A0x4c468f2d76765f8e!2sEntraide+Culture+asbl!5e0!3m2!1sfr!2sbe!4v1538990840496" ></iframe>
                         </div>
                     </div>
                 </div>
@@ -158,23 +157,37 @@
             <div class="padbot30">
                 <div class="row clients_wrap">
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="images/clients/6.png" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/actiris.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="images/clients/6.png" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/Logo_Francophones_Bruxelles.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="images/clients/6.png" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/forest.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="images/clients/6.png" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/logo.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="images/clients/6.png" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/projet-portail-230OK_03.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="images/clients/6.png" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/EU.png" alt="" /></a>
                     </div>
+                    <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/cpas.png" alt="" /></a>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/logo_lee.png" alt="" /></a>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/Logo_Integration_Sociale.gif" alt="" /></a>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/foodbanks-logo.png" alt="" /></a>
+                    </div>
+
+
                 </div>
             </div>
                 </div>

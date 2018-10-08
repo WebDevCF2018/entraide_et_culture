@@ -4,7 +4,6 @@
             <div class="socialf"><a href="https://www.facebook.com/entraideetculture/" class="social">
                     <img src="img/facebook.png" alt="facebook"/></a>
             </div>
-            <div class="socialv"><a href="#" class="social"><img src="img/v.png" alt="vimeo"/></a></div>
         </div>
         <div style="padding:20px;" class="formulaire">
             <div class="box">
