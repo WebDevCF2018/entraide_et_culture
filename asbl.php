@@ -116,31 +116,13 @@
             <div id="myDIVpresentation"></div>
             <div class="titlePresentation">asbl</div>
             <h2>mapping</h2>
-            <div class="paraPresentation">
-                L’ASBL Entraide et Culture, créée en 1983 à Forest par des bénévoles, apporte une aide et un soutien à un public précarisé et fragilisé.
-                <br><br>
-                L’association répond aux missions suivantes :<br>
-                <br>- Développer l’action sociale globale ;
-                <br>- Favoriser tout ce qui peut contribuer au développement culturel en général ;
-                <br>- Lutter contre la précarité et l’exclusion ;
-                <br>- Aider à la construction des projets personnels via la formation et des actions de cohésion sociale ;
-                <br>- Aider les personnes vulnérables dans leurs problèmes quotidiens.
-                <br><br>Entraide et Culture accomplit ses missions et ses actions selon des valeurs qui sont :<br>
-                <br>-La solidarité, l’aide et le soutien envers les personnes les plus fragiles et démunies ;
-                <br>-Le respect de tout type de différences (sociales, culturelles, religieuses, philosophiques…) ;
-                <br>-La mise à disposition d’une information complète pour favoriser l’autonomie de tous ;
-                <br>-Le développement des potentialités et des capacités de chacun ;
-                <br>-L’encouragement à la participation citoyenne et à la coopération ;
-                <br>-La justice sociale ;
-                <br>-La garantie des droits de l’homme selon la charte universelle de 1958.
-                <br><br>
-                L’association organise ses activités autour de deux pôles : « Entraide » et « Culture »<br><br>
-                Etant située à Forest, à la frontière avec d‘autres communes comme Saint-Gilles, Anderlecht ou Uccle, Entraide et Culture est active auprès d’un public issu principalement dans cette zone géographique.
-                <br><br>
-                Vous trouverez, dans les pages qui suivent, un descriptif des activités de notre association.
-                </br></br> </br></br>Auteur: Laura Vaillant</br> Date: 17.09.2018
+            <div class="asblmapping">
+                <object data="img/mindmapEC.svg" width="100%"
+                        height="100%" type="image/svg+xml">
+                    <embed src="img/mindmapEC.svg" width="500"
+                           height="500" type="image/svg+xml" />
+                </object>
             </div>
-
         </div>
     </div>
     <!--------------- END conteneur ancrage locale------------------->

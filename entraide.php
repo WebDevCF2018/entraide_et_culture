@@ -102,14 +102,15 @@
                         <br><br>
                         Les activités du pôle « Entraide » sont gérées par le service social de l’association qui se décline selon quatre catégories d’interventions et d’aides sociales :<br>
                         <br>- Le <strong>service social</strong> d’aide aux personnes informe, oriente et accompagne toute forme de demandes, soit lors des permanences sociales, soit sur rendez-vous.
-                        <br>- L’<strong>aide alimentaire</strong> procède à la distribution de colis alimentaires et établit différents partenariats locaux;
-                        <br>- Le <strong>vestiaire social</strong> propose une aide vestimentaire via la vente d’une large gamme de vêtements à prix modiques ou lors de bourses thématiques ;
-                        <br>- L’<strong>aide à domicile</strong>, tant les aides ménagères que les aides techniques, propose un soutien personnalisé au domicile des plus démunis.
+                        <br>- L’<a class="tablinks" onclick="texts(event, 'AideA')">aide alimentaire</a> procède à la distribution de colis alimentaires et établit différents partenariats locaux;
+                        <br>- Le  <a class="tablinks" onclick="texts(event, 'VestiaireS')">vestiaire social</a> propose une aide vestimentaire via la vente d’une large gamme de vêtements à prix modiques ou lors de bourses thématiques ;
+                        <br>- L’<a class="tablinks" onclick="texts(event, 'AideAd')">aide à domicile</a>, tant les aides ménagères que les aides techniques, propose un soutien personnalisé au domicile des plus démunis.
                         <br><br>
                         Pour bénéficier de nos services d’aide, une demande doit être introduite auprès de notre service social. Chaque demande fera l’objet d’une évaluation pour examiner attentivement le type d’aide à apporter.<br><br>
                         Plus d’informations :
                         <br><br>
                         (Responsable du pôle « Entraide ») : 02 539 43 61 ou servicesocial@entraideetculture.be
+                        <br><br>
                     </p>
                 </div>
             </div>

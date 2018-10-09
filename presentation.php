@@ -140,9 +140,8 @@
                 Etant située à Forest, à la frontière avec d‘autres communes comme Saint-Gilles, Anderlecht ou Uccle, Entraide et Culture est active auprès d’un public issu principalement dans cette zone géographique.
                 <br><br>
                 Vous trouverez, dans les pages qui suivent, un descriptif des activités de notre association.
-                </br></br> </br></br>Auteur: Laura Vaillant</br> Date: 17.09.2018
+                </br></br></br></br></br></br></br></br></br>
             </div>
-
         </div>
     </div>
     <!--------------- END conteneur présentation------------------->

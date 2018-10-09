@@ -138,8 +138,8 @@
                 Ont également été lancé la gazette de quartier nommée « La Gazette d’Antoine » et le blog qui va avec. Celui-ci permet de retrouver toute l’actu de quartier. Cliquez ici pour le consulter et cliquez ici pour télécharger la dernière Gazette. <br>
                 <br>
                 <a href="http://www.leblogdantoine.be/">http://www.leblogdantoine.be/</a>
+                </br></br></br></br></br></br></br></br></br>
             </div>
-
         </div>
     </div>
     <!--------------- END conteneur ancrage locale------------------->

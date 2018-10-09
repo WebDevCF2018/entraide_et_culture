@@ -147,7 +147,7 @@
                                 <p>Fax : 02 539 43 70</p>
                                 <h6>Réseau social</h6>
                                 <div class="social">
-                                    <a href="javascript:void(0);"><i class="fa fa-facebook"></i></a>
+                                    <a href="https://www.facebook.com/entraideetculture/" href="javascript:void(0);"><i class="fa fa-facebook"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -190,15 +190,9 @@
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
                         <a class="client_logo" href="javascript:void(0);"><img src="img/FD.png" alt="" /></a>
                     </div>
-
-
                 </div>
-
             </div>
             </div>
-
-
     <!---------------END conteneur infos pratiques------------------->
-
 </div>
 </div>
