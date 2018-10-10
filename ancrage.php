@@ -74,9 +74,10 @@
         <div class=column_A>
             <div class=zoom>
                 <div class="col-lg-1 padbot30 gallery_img lorem" id="grandephotoancrage">
-                    <a href="images/gallery/hands_512.jpg" data-gal="prettyPhoto[gal]">
+                    <a href="images/gallery/ae_512.jpg" data-gal="prettyPhoto[gal]">
                         <i></i>
-                        <img src="images/gallery/hands_512.jpg" alt="" style="width: 100%;" /></a>
+                        <img src="images/gallery/ae_512.jpg" alt="" style="width: 100%;
+    height: 100%;" /></a>
                 </div>
             </div>
             <script type="text/javascript">
@@ -102,8 +103,9 @@
                 </section>
                 <section id="vignettes">
                     <ul>
-                        <li><img src="images/gallery/hands_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhotoancrage(this);"/></li>
-                        <li><img src="images/gallery/bike_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhotoancrage(this);" /></li>
+                        <li><img src="images/gallery/fire_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhotoancrage(this);"/></li>
+                        <li><img src="images/gallery/ae_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhotoancrage(this);" /></li>
+                        <li><img src="images/gallery/cercle_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhotoancrage(this);" /></li>
                     </ul>
                 </section>
             </div>

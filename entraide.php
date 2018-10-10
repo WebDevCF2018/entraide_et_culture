@@ -151,6 +151,14 @@
                     <p><br>
                         Le service d’aide alimentaire distribue des colis alimentaires aux personnes les plus démunies plusieurs fois par semaine en fonction de la situation sociale préalablement évaluée. Il met en place différents partenariats locaux autour de l’aide alimentaire.
                         <br>
+                        <img src="images/gallery/bourseAlimentaire_512.png" alt="Bourse Alimentaire" style="    width: 50%;
+    height: 50%;
+    padding-left: 4%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    display: block;
+    float: right;" />
+                        <br>
                         Sur présentation d’une attestation délivrée au bénéficiaire par le CPAS de Forest, nous distribuons des colis de l’Union Européenne. Sous certaines conditions, nous distribuons également des colis alimentaires aux personnes vivant en situation de précarité.
                         <br>
                         Notre service social examine les demandes d’aide alimentaire et octroie selon certaines conditions une aide soit régulière, soit urgente, soit temporaire.

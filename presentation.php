@@ -74,9 +74,10 @@
         <div class=column_A>
             <div class=zoom>
                 <div class="col-lg-1 padbot30 gallery_img lorem" id="grandephoto">
-                    <a href="images/gallery/child_512.jpg" data-gal="prettyPhoto[gal]">
+                    <a href="images/gallery/murs_512.jpg" data-gal="prettyPhoto[gal]">
                         <i></i>
-                        <img src="images/gallery/child_512.jpg" alt="" style="width: 100%;" /></a>
+                        <img src="images/gallery/murs_512.jpg" alt="" style="width: 100%;
+    height: 100%;" /></a>
                 </div>
             </div>
             <script type="text/javascript">
@@ -102,11 +103,11 @@
                 </section>
                 <section id="vignettes">
                     <ul>
-                        <li><img src="images/gallery/child_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto(this);" /></li>
-                        <li><img src="images/gallery/hands_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto(this);"/></li>
-                        <li><img src="images/gallery/bike_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto(this);" /></li>
-                        <li><img src="images/gallery/friends_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto(this);" /></li>
-                        <li><img src="images/gallery/ok_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto(this);" /></li>
+                        <li><img src="images/gallery/brico_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto(this);" /></li>
+                        <li><img src="images/gallery/group_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto(this);"/></li>
+                        <li><img src="images/gallery/murs_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto(this);" /></li>
+                        <li><img src="images/gallery/skeleton_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto(this);" /></li>
+                        <li><img src="images/gallery/tapis_128.jpg" alt="" width="128" height="96" onclick="afficheGrandePhoto(this);" /></li>
                     </ul>
                 </section>
             </div>
