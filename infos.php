@@ -164,7 +164,7 @@
                         <a class="client_logo" href="javascript:void(0);"><img src="img/AC.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="img/CO.png" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/CP.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
                         <a class="client_logo" href="javascript:void(0);"><img src="img/BE.png" alt="" /></a>
@@ -173,7 +173,7 @@
                         <a class="client_logo" href="javascript:void(0);"><img src="img/FR.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
-                        <a class="client_logo" href="javascript:void(0);"><img src="img/NE" alt="" /></a>
+                        <a class="client_logo" href="javascript:void(0);"><img src="img/NE.png" alt="" /></a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-4 col-xs-6 padbot10">
                         <a class="client_logo" href="javascript:void(0);"><img src="img/EU.png" alt="" /></a>
