@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dfe44e5-27df-45d6-97f7-058cdbf5670d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/CO.png" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/infos.php" afterPath="$PROJECT_DIR$/infos.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,35 +15,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="infos.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/infos.php">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="755">
-              <caret line="162" column="78" lean-forward="true" selection-start-line="162" selection-start-column="78" selection-end-line="162" selection-end-column="78" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.flexslider-min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/jquery.flexslider-min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="696">
+              <caret line="1859" column="1" lean-forward="true" selection-start-line="1859" selection-start-column="1" selection-end-line="1859" selection-end-column="1" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#95#194#0" expanded="false" />
+                <element signature="e#206#271#0" expanded="false" />
+                <element signature="e#293#339#0" expanded="false" />
+                <element signature="e#353#393#0" expanded="false" />
+                <element signature="e#400#731#0" expanded="false" />
+                <element signature="e#760#878#0" expanded="false" />
+                <element signature="e#908#938#0" expanded="false" />
+                <element signature="e#958#988#0" expanded="false" />
+                <element signature="e#1009#1039#0" expanded="false" />
+                <element signature="e#1064#1094#0" expanded="false" />
+                <element signature="e#1118#1241#0" expanded="false" />
+                <element signature="e#1252#1273#0" expanded="false" />
+                <element signature="e#1279#1544#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.isotope.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/jquery.isotope.min.js">
+      <file leaf-file-name="infos.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/infos.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="667">
+              <caret line="190" column="88" lean-forward="false" selection-start-line="190" selection-start-column="88" selection-end-line="190" selection-end-column="88" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CO.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/CO.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -282,6 +297,16 @@
             <path>
               <item name="entraide_et_culture" type="b2602c69:ProjectViewProjectNode" />
               <item name="entraide_et_culture" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="entraide_et_culture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="entraide_et_culture" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="entraide_et_culture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="entraide_et_culture" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -308,8 +333,8 @@
       <recent name="F:\wamp64\www\EC 06.09.2018\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\wamp64\www\entraide_et_culture\images\gallery" />
       <recent name="F:\wamp64\www\entraide_et_culture\img" />
+      <recent name="F:\wamp64\www\entraide_et_culture\images\gallery" />
       <recent name="F:\wamp64\www\entraide_et_culture" />
       <recent name="F:\wamp64\www\EC 12.09.2018\css" />
       <recent name="F:\wamp64\www\EC 12.09.2018\img" />
@@ -386,7 +411,7 @@
       <workItem from="1538982661401" duration="10320000" />
       <workItem from="1539009394090" duration="726000" />
       <workItem from="1539084382792" duration="7860000" />
-      <workItem from="1539155145103" duration="9806000" />
+      <workItem from="1539155145103" duration="13147000" />
     </task>
     <servers />
   </component>
@@ -396,7 +421,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241879000" />
+    <option name="totallyTimeSpent" value="245220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="300" y="34" width="1244" height="989" extended-state="0" />
@@ -435,7 +460,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/._parallax.js" />
     <entry file="file://$PROJECT_DIR$/js/._validate.js" />
     <entry file="file://$PROJECT_DIR$/js/._jquery.twitter.js" />
     <entry file="file://$PROJECT_DIR$/js/parallax.js">
@@ -619,28 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="1859" column="1" lean-forward="false" selection-start-line="1859" selection-start-column="1" selection-end-line="1859" selection-end-column="1" />
-          <folding>
-            <element signature="e#95#194#0" expanded="false" />
-            <element signature="e#206#271#0" expanded="false" />
-            <element signature="e#293#339#0" expanded="false" />
-            <element signature="e#353#393#0" expanded="false" />
-            <element signature="e#400#731#0" expanded="false" />
-            <element signature="e#760#878#0" expanded="false" />
-            <element signature="e#908#938#0" expanded="false" />
-            <element signature="e#958#988#0" expanded="false" />
-            <element signature="e#1009#1039#0" expanded="false" />
-            <element signature="e#1064#1094#0" expanded="false" />
-            <element signature="e#1118#1241#0" expanded="false" />
-            <element signature="e#1252#1273#0" expanded="false" />
-            <element signature="e#1279#1544#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/accueil.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3036">
@@ -743,11 +745,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="1859" column="1" lean-forward="true" selection-start-line="1859" selection-start-column="1" selection-end-line="1859" selection-end-column="1" />
+          <folding>
+            <element signature="e#95#194#0" expanded="false" />
+            <element signature="e#206#271#0" expanded="false" />
+            <element signature="e#293#339#0" expanded="false" />
+            <element signature="e#353#393#0" expanded="false" />
+            <element signature="e#400#731#0" expanded="false" />
+            <element signature="e#760#878#0" expanded="false" />
+            <element signature="e#908#938#0" expanded="false" />
+            <element signature="e#958#988#0" expanded="false" />
+            <element signature="e#1009#1039#0" expanded="false" />
+            <element signature="e#1064#1094#0" expanded="false" />
+            <element signature="e#1118#1241#0" expanded="false" />
+            <element signature="e#1252#1273#0" expanded="false" />
+            <element signature="e#1279#1544#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/CO.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/infos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="162" column="78" lean-forward="true" selection-start-line="162" selection-start-column="78" selection-end-line="162" selection-end-column="78" />
-          <folding />
+        <state relative-caret-position="667">
+          <caret line="190" column="88" lean-forward="false" selection-start-line="190" selection-start-column="88" selection-end-line="190" selection-end-column="88" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
